@@ -1,0 +1,19 @@
+body {
+    font-family: 'Trochut', cursive;
+    font-weight: 400;
+}
+
+h, h1, h2, h3 {
+    font-family: 'trochut', cursive;
+    font-weight: 700;
+    color: grey;
+}
+
+.hanging-picture {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.image-title {
+    font-style: italic;
+}
